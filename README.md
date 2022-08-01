@@ -24,7 +24,7 @@ _Novo e de novo_
 
 _Na mesma bifurcação._
 
-![Isso é uma imagem] (https://blog.petiko.com.br/wp-content/uploads/2018/03/pinscher-ca-guarda.jpg)
+![Isso é uma imagem](https://blog.petiko.com.br/wp-content/uploads/2018/03/4-pinscherbrasil.jpg)
 
 # Colégio Edimar Wright Pensamento Computacional 1-E
 
